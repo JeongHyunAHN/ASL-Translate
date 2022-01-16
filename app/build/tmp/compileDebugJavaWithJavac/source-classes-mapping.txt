@@ -1,0 +1,9 @@
+com/jeong/dearadam/BuildConfig.java
+ com.jeong.dearadam.BuildConfig
+com/jeong/dearadam/Signe.java
+ com.jeong.dearadam.Signe
+com/jeong/dearadam/Translate.java
+ com.jeong.dearadam.Translate
+com/jeong/dearadam/Listen.java
+ com.jeong.dearadam.Listen
+ com.jeong.dearadam.Listen$1

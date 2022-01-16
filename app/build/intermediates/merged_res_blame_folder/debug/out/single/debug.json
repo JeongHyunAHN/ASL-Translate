@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_indicator_selected.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/indicator_selected.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_tut4.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/tut4.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_ic_mic_input.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/ic_mic_input.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/layout_activity_image_display.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/layout/activity_image_display.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_tut2.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/tut2.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/layout_activity_audio_input.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/layout/activity_audio_input.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_ic_tutorial.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/ic_tutorial.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_tut1.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/tut1.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_indicator_default.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/indicator_default.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/layout_layout_screen_fragment.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/layout/layout_screen_fragment.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_tut3.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/tut3.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_circle_shape.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/circle_shape.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/drawable_indicator_selector.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/drawable/indicator_selector.xml"
+    },
+    {
+        "merged": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

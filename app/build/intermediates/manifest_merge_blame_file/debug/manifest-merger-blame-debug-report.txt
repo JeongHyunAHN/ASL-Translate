@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jeong.dearadam"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:6:5-11:15
+12        <intent>
+12-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:7:9-10:18
+13            <action android:name="android.speech.RecognitionService" />
+13-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:8:13-9:68
+13-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:9:17-65
+14        </intent>
+15    </queries>
+16
+17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+17-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:13:5-71
+17-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:13:22-68
+18
+19    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+20    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:26:5-79
+21-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:26:22-76
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:27:5-67
+22-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:27:22-64
+23
+24    <application
+24-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:15:5-31:19
+25        android:allowBackup="true"
+25-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:16:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.3.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/f3d364c4591b4da0386e5d8846d9d728/core-1.3.1/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:17:9-43
+30        android:label="@string/app_name"
+30-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:18:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:19:9-54
+32        android:supportsRtl="true"
+32-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:20:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.Hluchy" >
+34-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:21:9-44
+35        <activity android:name="com.jeong.dearadam.Translate" />
+35-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:23:9-47
+35-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:23:19-44
+36        <activity android:name="com.jeong.dearadam.Listen" >
+36-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:24:9-30:20
+36-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:24:19-41
+37            <intent-filter>
+37-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:25:13-29:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:26:17-69
+38-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:26:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:28:17-77
+40-->/Users/jeonghyunahn/AndroidStudioProjects/DearAdam copy 2/app/src/main/AndroidManifest.xml:28:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <service
+44-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:30:9-36:19
+45            android:name="com.google.firebase.components.ComponentDiscoveryService"
+45-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:31:13-84
+46            android:directBootAware="true"
+46-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+47            android:exported="false" >
+47-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:32:13-37
+48            <meta-data
+48-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:33:13-35:85
+49                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+49-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:34:17-107
+50                android:value="com.google.firebase.components.ComponentRegistrar" />
+50-->[com.google.firebase:firebase-storage:19.2.1] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/4fe024a2b334d8544f8eaa9cab7ed523/jetified-firebase-storage-19.2.1/AndroidManifest.xml:35:17-82
+51            <!--
+52                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+53                clients to use it as well, by defining this registrar in their own core/common library.
+54            -->
+55            <meta-data
+55-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+56                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+56-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+57                android:value="com.google.firebase.components.ComponentRegistrar" />
+57-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+58        </service>
+59
+60        <activity
+60-->[com.google.android.gms:play-services-base:17.0.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/8de479e3923cdb06e513556595304162/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+61            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+61-->[com.google.android.gms:play-services-base:17.0.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/8de479e3923cdb06e513556595304162/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+62            android:exported="false"
+62-->[com.google.android.gms:play-services-base:17.0.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/8de479e3923cdb06e513556595304162/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.android.gms:play-services-base:17.0.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/8de479e3923cdb06e513556595304162/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+64
+65        <provider
+65-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+66            android:name="com.google.firebase.provider.FirebaseInitProvider"
+66-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+67            android:authorities="com.jeong.dearadam.firebaseinitprovider"
+67-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+68            android:directBootAware="true"
+68-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+69            android:exported="false"
+69-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+70            android:initOrder="100" />
+70-->[com.google.firebase:firebase-common:19.5.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/9b2ec3a49389295e09fe37e42c5e30ad/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+71
+72        <meta-data
+72-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/830f40744a6b50d3acce285cce8599db/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+73            android:name="com.google.android.gms.version"
+73-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/830f40744a6b50d3acce285cce8599db/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+74            android:value="@integer/google_play_services_version" />
+74-->[com.google.android.gms:play-services-basement:17.0.0] /Users/jeonghyunahn/.gradle/caches/transforms-2/files-2.1/830f40744a6b50d3acce285cce8599db/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+75    </application>
+76
+77</manifest>
